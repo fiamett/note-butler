@@ -8,11 +8,11 @@ it lets you save notes and tasks and lets you sort them and clear them as you go
 ## Use
 when you start the app you will see a home page that looks like this
 
-![photo of homepage](readme/home page.PNG)
+![photo of homepage](readme/homepage.PNG)
 
 press the get started button to get to the main notes page which looks like
 
-![photo of notes page](readme/notes page.PNG)
+![photo of notes page](readme/notespage.PNG)
 
 there is a left hand side that hold the stored notes there is a trash can that is there to let you delete old notes and review old notes on large
 there is a larger right hand side that has a title box text box and two icons on the top left. the title box is the part that shows up on the list
